@@ -1,4 +1,4 @@
-# vue-profile
+# Profile in Vue
 
 ## Project setup
 ```
