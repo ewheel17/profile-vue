@@ -1,19 +1,21 @@
 <template>
-  <div class="home">
-    <banner class="sectionComponent" />
-    <about class="sectionComponent" />
-    <skills class="sectionComponent" />
-    <portfolio class="sectionComponent" />
-    <Footer class="sectionComponent" />
+  <div id="home">
+    <navbar/>
+    <banner/>
+    <about/>
+    <skills/>
+    <portfolio/>
+    <contact/>
   </div>
 </template>
 
 <script>
+import Navbar from "@/components/sections/Navbar.vue";
 import Banner from "@/components/sections/Banner.vue";
 import About from "@/components/sections/About.vue";
 import Skills from "@/components/sections/Skills.vue";
 import Portfolio from "@/components/sections/Portfolio.vue";
-import Footer from "@/components/sections/Footer.vue";
+import Contact from "@/components/sections/Contact.vue";
 
 export default {
   name: "home",
@@ -22,17 +24,8 @@ export default {
     About,
     Skills,
     Portfolio,
-    Footer
+    Contact,
+    Navbar,
   }
 };
 </script>
-
-<style lang="scss" scoped>
-.home {
-  // display: flex;
-  // flex-flow: column;
-  // height: 100%;
-  // justify-content: space-between;
-  // align-items: stretch;
-}
-</style>

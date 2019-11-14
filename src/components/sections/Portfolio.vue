@@ -14,10 +14,9 @@ export default {
 <style lang="scss" scoped>
 #portfolio {
   height: 200px;
-  background: #273469;
-  color: white;
+  padding: 0px 60px;
+  background: #FAFAFF;
+  color: #30343F;
   display: flex;
-  justify-content: center;
-  align-items: center;
 }
 </style>

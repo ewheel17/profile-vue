@@ -1,23 +1,22 @@
 <template>
-  <footer id="footer">
+  <div id="contact">
     Footer
-  </footer>
+  </div>
 </template>
 
 <script>
 export default {
-  name: "footer",
+  name: "contact",
   components: {},
 };
 </script>
 
 <style lang="scss" scoped>
-#footer {
+#contact {
   height: 200px;
-  background: #273469;
-  color: white;
+  padding: 0px 60px;
+  background: #FAFAFF;
+  color: #30343F;
   display: flex;
-  justify-content: center;
-  align-items: center;
 }
 </style>
