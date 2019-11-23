@@ -1,8 +1,8 @@
 <template>
-  <div id="banner">
+  <section id="banner">
     <h1 class="bottom-divider">Max Wheeler</h1>
     <h3>Web Developer, Biochemist, Eternal Student</h3>
-  </div>
+  </section>
 </template>
 
 <script>

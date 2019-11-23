@@ -1,5 +1,5 @@
 <template>
-  <div id="skills">
+  <section id="skills">
     <div class="simple-card">
       <h2 style="width: 100%; border-bottom: solid 2px #30343F; padding-bottom: 10px;">Current Professional Stack - <b>VENM</b></h2>
       <div class="simple-card-container">
@@ -62,7 +62,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </section>
 </template>
 
 <script>

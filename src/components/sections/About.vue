@@ -1,12 +1,12 @@
 <template>
-  <div id="about">
+  <section id="about">
     <div class="card">
       <h3>
         Welcome to my website! Thanks for stopping by to learn a little bit
         about me and what's been keeping me busy.
       </h3>
     </div>
-  </div>
+  </section>
 </template>
 
 <script>
@@ -24,7 +24,6 @@ export default {
   justify-content: center;
   align-items: center;
   padding: 0px 60px;
-  margin-bottom: 20px;
 
   .card {
     width: 100%;

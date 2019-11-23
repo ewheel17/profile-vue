@@ -1,5 +1,5 @@
 <template>
-  <div id="navbar">
+  <section id="navbar">
     <a href="#skills">
       <button>
         Skills
@@ -15,7 +15,7 @@
         Contact
       </button>
     </a>
-  </div>
+  </section>
 </template>
 
 <script>

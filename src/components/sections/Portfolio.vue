@@ -1,7 +1,10 @@
 <template>
-  <div id="portfolio">
-    Portfolio
-  </div>
+  <section id="portfolio">
+    Portfolio (Coming Soon)
+    <div>
+
+    </div>
+  </section>
 </template>
 
 <script>
@@ -13,10 +16,13 @@ export default {
 
 <style lang="scss" scoped>
 #portfolio {
-  height: 200px;
+  min-height: 400px;
   padding: 0px 60px;
-  background: #FAFAFF;
-  color: #30343F;
+  background: #273469;
+  color: white;
   display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 </style>
