@@ -38,7 +38,7 @@
           <h4 style="margin: 0px;">Vuetify</h4>
         </div>
         <div class="simple-card-block unlimited-card-block" style="flex-flow: column;">
-          <img class="image-type-1" src="../../assets/tailwindcss-logo.jpg" alt="Tailwind CSS Logo">
+          <img class="image-type-1" src="../../assets/tailwindcss-logo.png" alt="Tailwind CSS Logo">
           <h4 style="margin: 0px;">Tailwind CSS</h4>
         </div>
         <div class="simple-card-block unlimited-card-block" style="flex-flow: column;">
@@ -52,7 +52,7 @@
           <img class="image-type-1" src="../../assets/aws-logo.png" alt="Amazon Web Services Logo">
         </div>
         <div class="simple-card-block unlimited-card-block">
-          <img class="image-type-1" src="../../assets/sql-logo.jpg" alt="SQL Logo">
+          <img class="image-type-1" src="../../assets/sql-logo.png" alt="SQL Logo">
         </div>
         <div class="simple-card-block unlimited-card-block">
           <img style="height: 145px;" src="../../assets/agile-logo.png" alt="Agile Processes Logo">
